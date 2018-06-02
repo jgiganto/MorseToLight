@@ -13,7 +13,7 @@ namespace MorseToLight
 		{
 			InitializeComponent();
 
-			MainPage = new MorseToLight.MainPage();
+			MainPage = new MorseToLight.Views.LinternaView();
 		}
 
 		protected override void OnStart ()
